@@ -6,3 +6,7 @@
 
 
 * [시연영상](https://youtu.be/rrQGvhrPJQ4?si=Xz0xoejVwiYUBGy-)
+<div align="center">
+  
+<img src="https://github.com/yujinS0/3DUnityGame_xreal/assets/87336788/0f58a1e0-7100-49e4-ac74-f7a2c6889cc3"  width="900" height="550">
+</div>
