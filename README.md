@@ -3,3 +3,6 @@
 
 * xreal 지원을 위한 3D Unity 프로젝트!
 * 참고 : https://learn.unity.com/tutorial/jon-remonyi-gongpo-ceheom-sijaghagi?uv=2020.3&projectId=633563fcedbc2a7b67ba2f8f#
+
+
+* [시연영상](https://youtu.be/rrQGvhrPJQ4?si=Xz0xoejVwiYUBGy-)
